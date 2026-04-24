@@ -26,7 +26,7 @@ I'm applying for a Sr. Actuarial Analyst role and wanted to show I can:
 
 ## How to Run on Windows
 
-1. Download `Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv` from Zillow Research
+1. Download `[Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv](https://files.zillowstatic.com/research/public_csvs/zhvi/Metro_zhvi_uc_sfrcondo_tier_0.33_0.67_sm_sa_month.csv)` from Zillow Research
 2. Rename it to `home_prices.csv`
 3. Put it in the same folder as `insurance_calculator.py`
 4. Open Command Prompt
