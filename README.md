@@ -175,8 +175,9 @@ These are simplified for demonstration. Real actuaries use ISO loss costs, compa
 - `home_prices.csv` - Zillow home price data
 - `check_csv.py` - CSV data validation utility
 - `README.md` - This file
+
 ```
-""  
-"**PowerPoint Summary:** A 10-slide executive presentation showing how actuarial analysis of home insurance data can improve pricing accuracy by 10%+ and identify $1.2M in annual premium opportunities"  
-""  
-"PowerPoint Summary: A 10-slide executive presentation showing how actuarial analysis of home insurance data can improve pricing accuracy by 10%+ and identify $1.2M in annual premium opportunities"  
+
+## Homeowners_Insurance_Presentation PDF 
+
+- A 10-slide executive presentation showing how actuarial analysis of home insurance data can improve pricing accuracy by 10%+ and identify $1.2M in annual premium opportunities
