@@ -113,18 +113,10 @@ California gets 25% because of wildfire risk. Florida gets 45% for hurricanes. W
 
 Insurance companies need to pay salaries, rent offices, and make a profit.
 
-
-California gets 25% because of wildfire risk. Florida gets 45% for hurricanes. Washington only gets 8%.
-
-### Step 4: Expense and Profit
-
-Insurance companies need to pay salaries, rent offices, and make a profit.
-
 Expense/Profit = (Base Premium + Cat Premium) × 0.30
 = ($5,842 + $1,461) × 0.30
 = $7,303 × 0.30
 = $2,191
-
 
 The 30% is pretty standard across the industry.
 
